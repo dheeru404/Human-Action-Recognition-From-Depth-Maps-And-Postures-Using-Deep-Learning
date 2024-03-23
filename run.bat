@@ -1,0 +1,2 @@
+python HumanActivityRecognition.py
+pause
